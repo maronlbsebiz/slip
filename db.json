@@ -1,59 +1,7 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "users": [{
-    "id": 1,
-    "first_name": "Sander",
-    "last_name": "Jarrelt",
-    "email": "sjarrelt0@behance.net",
-    "mobile": "4678224463",
-    "mpin": 5020,
-    "is_verified": false,
-    "is_completed": true,
-    "access_token": "d56c5f863493f096cf476b9eb40e82d12ab704b8"
-  }, {
-    "id": 2,
-    "first_name": "Grange",
-    "last_name": "Bailles",
-    "email": "gbailles1@theguardian.com",
-    "mobile": "8478999898",
-    "mpin": 7920,
-    "is_verified": true,
-    "is_completed": true,
-    "access_token": "d56c5f863493f096cf476b9eb40e82d12ab704b8"
-  }, {
-    "id": 3,
-    "first_name": "Jarrett",
-    "last_name": "Entissle",
-    "email": "jentissle2@odnoklassniki.ru",
-    "mobile": "8208905189",
-    "mpin": 1564,
-    "is_verified": false,
-    "is_completed": true,
-    "access_token": "d56c5f863493f096cf476b9eb40e82d12ab704b8"
-  }, {
-    "id": 4,
-    "first_name": "York",
-    "last_name": "Quare",
-    "email": "yquare3@nih.gov",
-    "mobile": "5216916505",
-    "mpin": 2998,
-    "is_verified": false,
-    "is_completed": false,
-    "access_token": "d56c5f863493f096cf476b9eb40e82d12ab704b8"
-  }, {
-    "id": 5,
-    "first_name": "Dave",
-    "last_name": "McCrie",
-    "email": "dmccrie4@weibo.com",
-    "mobile": "5389709585",
-    "mpin": 8798,
-    "is_verified": false,
-    "is_completed": true,
-    "access_token": "d56c5f863493f096cf476b9eb40e82d12ab704b8"
-  }]
+  "users": [],
+  "sell":[],
+  "buy":[],
+  "bid":[],
+  "bid_comments":[]
 }
